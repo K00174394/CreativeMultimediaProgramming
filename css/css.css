@@ -12,6 +12,11 @@ div.title{
     color: black;
     
 }
+footer{
+	font-size:15px;
+	text-align:center; 
+	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+}
 div.semiTrans{
   color: rgba(0,0,0,0.3);
     background-color: rgba(0,0,0,0.1);
