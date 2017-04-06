@@ -5,6 +5,9 @@ body {
 	background: url('../img/bg.png');
 	background-attachment: fixed;
 }
+div.figcaption{
+	padding-left:25px;
+}
 p{
  
     font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
