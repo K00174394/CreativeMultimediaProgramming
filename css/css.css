@@ -8,6 +8,9 @@ body {
 div.figcaption{
 	padding-left:40px;
 }
+div.figcaption2{
+	padding-left:30px;
+}
 p{
  
     font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
